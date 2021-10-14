@@ -1,5 +1,4 @@
-import Header from "../components/Navbar";
-import Hero from "../assets/hero.jpg"
+
 import Footer from "../components/Footer";
 import NavBar from "../components/Navbar";
 

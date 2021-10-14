@@ -1,4 +1,3 @@
-import Photo from "../assets/landscape.jpg"
 import Card from "./Card";
 
 

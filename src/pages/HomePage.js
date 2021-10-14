@@ -1,5 +1,4 @@
 import CardList from "../components/CardList";
-import Cards from "../components/CardList";
 import Hero from "../components/Hero";
 
 import img1 from "../assets/cryptoadz.png"
