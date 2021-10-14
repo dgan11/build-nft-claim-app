@@ -53,7 +53,7 @@ function NavBar(props) {
             </li>
 
             <li>
-              <button className="flex w-full text-base uppercase hover:text-gray-500 cursor-pointer mt-1.5 py-1 px-2.5 bg-red-200 rounded-md text-center">
+              <button className="flex w-full text-base uppercase hover:bg-red-400 cursor-pointer mt-1.5 py-1 px-2.5 bg-red-300 rounded-md text-center">
                 connect wallet
               </button>
             </li>

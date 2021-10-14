@@ -1,4 +1,4 @@
-import Photo from "../assets/landscape.jpg";
+
 
 function Card(props) {
   return (
