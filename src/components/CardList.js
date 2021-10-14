@@ -9,7 +9,7 @@ function CardList(props) {
         <h1 className="mt-10 text-3xl pt-6 font-mono">{props.sectionHeader}</h1>
       </div>
       <div className="flex flex-row flex-wrap  justify-center">
-        {/* <Card />
+        {/* <Card s />
         <Card />
         <Card /> */}
 
